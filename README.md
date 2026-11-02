@@ -12,7 +12,7 @@ Software developer, passionate about xyz. Currently working on xyz and xyz. Look
   description    
   link
 
-**Project 4:** TITLE
+**Project 4:** TITLE  
   description    
   link  
 
